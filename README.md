@@ -85,15 +85,15 @@ An IoT-based vehicle safety solution that leverages ultrasonic sensors (HCSR04),
 ---
 
 ## **Testimonial images :**
-**IOT DEVICE
+**IOT DEVICE**
 
 ![image](https://github.com/AvilashBhowmick12/Smart-Car-Accident-Detection-System-IOT/blob/main/Project%20Images/WhatsApp%20Image%202024-01-19%20at%205.48.55%20PM.jpeg)
 
-**Firebase Setup
+**Firebase Setup**
 
 ![image](https://github.com/AvilashBhowmick12/Smart-Car-Accident-Detection-System-IOT/blob/main/Project%20Images/Firebase%20Setup%2001.png)
 ![image](https://github.com/AvilashBhowmick12/Smart-Car-Accident-Detection-System-IOT/blob/main/Project%20Images/Firebase%20Setup%2002.png)
 
-**APP UI Interface
+**APP UI Interface**
 
 ![image](https://github.com/AvilashBhowmick12/Smart-Car-Accident-Detection-System-IOT/blob/main/Project%20Images/App%20ui%20Test%20-%20Cases%201%20-%202%20-%203.png)
