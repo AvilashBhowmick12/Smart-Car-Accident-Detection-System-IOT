@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "265499930862",
+    "firebase_url": "https://test2-48b95-default-rtdb.firebaseio.com",
+    "project_id": "test2-48b95",
+    "storage_bucket": "test2-48b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265499930862:android:5e08c3eb36c5435d9f83ff",
+        "android_client_info": {
+          "package_name": "com.example.smartcar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQySOgW1eyMryekdGN1b4s4HrVUpQX44M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265499930862:android:b518c09fc2c507919f83ff",
+        "android_client_info": {
+          "package_name": "com.msit.veichletracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQySOgW1eyMryekdGN1b4s4HrVUpQX44M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
